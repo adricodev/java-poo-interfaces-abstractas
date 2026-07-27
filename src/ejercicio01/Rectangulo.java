@@ -1,4 +1,4 @@
-package poo.ejercicio01;
+package ejercicio01;
 
 public class Rectangulo extends Figura{
     private double base;

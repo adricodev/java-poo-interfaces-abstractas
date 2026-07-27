@@ -1,4 +1,4 @@
-package poo.ejercicio01;
+package ejercicio01;
 
 public class Circulo extends Figura{
     private double radio;
