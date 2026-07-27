@@ -23,6 +23,13 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+.idea/
+out/
+target/
+*.iml
+*.class
+AGENTS.md
+
 ### VS Code ###
 .vscode/
 
