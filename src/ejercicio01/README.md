@@ -23,7 +23,3 @@ Crear dos subclases concretas `Circulo` y `Rectangulo` que implementen `calcular
 - Sobrescritura de `toString()`
 - Polimorfismo: una variable `Figura` puede referirse a `Circulo` o `Rectangulo`
 
-## Preguntas clave
-- Por que `Figura` no puede instanciarse directamente?
-- Que pasa si una subclase no implementa `calcularArea()`?
-- Donde se usa el polimorfismo en el Main?

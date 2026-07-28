@@ -28,8 +28,3 @@ Crear dos clases `Pajaro` y `Avion` que implementen `Volador`.
 - `implements` en lugar de `extends`
 - Las clases no estan obligadas a sobrescribir metodos `default`
 
-## Preguntas clave
-- Cual es la diferencia entre metodo `default` y `abstract` en una interface?
-- Puede una clase sobrescribir un metodo `default` si quiere?
-- Como se llama un metodo `static` de una interface?
-- Una interface puede tener constructores?
