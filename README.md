@@ -44,6 +44,8 @@ src/
   ejercicio05/   - Composición de interfaces (Encendible, Apagable, Reproducible)
   ejercicio06/   - Interface de notificaciones (CanalNotificacion)
   ejercicio07/   - Repositorio CRUD sin genericos (FacturaRepositorio)
+  ejercicio08/   - Repositorio de Cliente con id automatico (static)
+  ejercicio09/   - Repositorio de Producto con CRUD completo (incluye actualizar)
 ```
 
 Cada carpeta lleva su propio `README.md` con el planteamiento del ejercicio.
@@ -59,6 +61,8 @@ Cada carpeta lleva su propio `README.md` con el planteamiento del ejercicio.
 | [Ejercicio 05](src/ejercicio05/README.md) | Crear interfaces `Encendible`, `Apagable`, `Reproducible` y usar `instanceof` para comportamiento condicional. |
 | [Ejercicio 06](src/ejercicio06/README.md) | Crear una interface `CanalNotificacion` e implementarla en `NotificacionEmail` y `NotificacionSMS`. |
 | [Ejercicio 07](src/ejercicio07/README.md) | Crear un repositorio CRUD `FacturaRepositorio` con interface, implementacion y Main, sin genericos. |
+| [Ejercicio 08](src/ejercicio08/README.md) | Repositorio de `Cliente` con id generado automaticamente mediante un contador `static`. |
+| [Ejercicio 09](src/ejercicio09/README.md) | Repositorio de `Producto` con CRUD completo, incluida la operacion `actualizar`. |
 
 Iré añadiendo más ejercicios según los vaya haciendo.
 
