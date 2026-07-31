@@ -64,4 +64,4 @@ Iré añadiendo más ejercicios según los vaya haciendo.
 
 ## Cómo lo estoy aprendiendo
 
-Estos ejercicios son parte de mi proceso de aprendizaje, no proyectos acabados. Los hago pequeños a propósito: prefiero entender bien un concepto antes de pasar al siguiente. A veces me apoyo en herramientas como OpenCode para revisar conceptos o que me corrijan el código, pero intento resolver la mayoría yo mismo.
+Estos ejercicios son parte de mi proceso de aprendizaje, no proyectos acabados. Los hago pequeños a propósito: prefiero entender bien un concepto antes de pasar al siguiente.
