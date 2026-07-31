@@ -12,8 +12,4 @@ Reutilizando las clases del ejercicio 03, crear un metodo estatico `procesarPago
 | `Paypal.java` | Igual que en 03 |
 | `Main.java` | Metodo `procesarPago()` que programa contra la interface y castea a `MedioPago` |
 
-## Clave del ejercicio
-- El metodo recibe `Pagable`, no una clase concreta
-- Para usar metodos de `MedioPago` hay que castear: `((MedioPago) medio).consultarSaldo()`
-- Si manana se crea `Bitcoin`, `procesarPago()` funciona sin cambios
 

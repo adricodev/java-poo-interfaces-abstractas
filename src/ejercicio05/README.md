@@ -13,8 +13,4 @@ Crear las interfaces `Encendible`, `Apagable` y `Reproducible`. `Televisor` impl
 | `EquipoSonido.java` | Implementa `Encendible`, `Apagable`, `Reproducible` |
 | `Main.java` | Metodo `encenderYUsar()` con `instanceof` |
 
-## Clave del ejercicio
-- Una clase implementa varias interfaces separadas por comas
-- `instanceof` permite preguntar por el tipo en tiempo de ejecucion
-- Interfaces pequenas y especificas (Interface Segregation) frente a una unica interface grande
 
