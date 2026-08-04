@@ -46,9 +46,19 @@ src/
   ejercicio07/   - Repositorio CRUD sin genericos (FacturaRepositorio)
   ejercicio08/   - Repositorio de Cliente con id automatico (static)
   ejercicio09/   - Repositorio de Producto con CRUD completo (incluye actualizar)
+  ejercicio10/   - Repositorio de Libro con CRUD y subpaquetes
 ```
 
 Cada carpeta lleva su propio `README.md` con el planteamiento del ejercicio.
+
+A partir del ejercicio 10 se organiza el codigo en subpaquetes por capas, dentro de cada ejercicio:
+
+```
+ejercicio10/
+  modelo/           - Clases de dominio (datos)
+  interfaces/       - Interfaces y contratos
+  implementacion/   - Implementaciones de los contratos
+```
 
 ## Ejercicios
 
@@ -63,6 +73,7 @@ Cada carpeta lleva su propio `README.md` con el planteamiento del ejercicio.
 | [Ejercicio 07](src/ejercicio07/README.md) | Crear un repositorio CRUD `FacturaRepositorio` con interface, implementacion y Main, sin genericos. |
 | [Ejercicio 08](src/ejercicio08/README.md) | Repositorio de `Cliente` con id generado automaticamente mediante un contador `static`. |
 | [Ejercicio 09](src/ejercicio09/README.md) | Repositorio de `Producto` con CRUD completo, incluida la operacion `actualizar`. |
+| [Ejercicio 10](src/ejercicio10/README.md) | Repositorio de `Libro` con CRUD completo organizado en subpaquetes (`modelo`, `interfaces`, `implementacion`). |
 
 Iré añadiendo más ejercicios según los vaya haciendo.
 
